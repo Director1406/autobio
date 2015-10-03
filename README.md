@@ -1,2 +1,0 @@
-# autobio
-My short autobiography. 
